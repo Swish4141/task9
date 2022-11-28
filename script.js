@@ -121,13 +121,13 @@ returnPrimeNumbers();
 function iLoveJavascript(){
     for (let i = 1; i < 101; i++){
         if (i % 15 == 0){
-            console.log("CSC225 RULES I LOVE JAVASCRIPT")
+            console.log("CSC225 RULES I LOVE JAVASCRIPT");
         }
         else if (i % 5 == 0){
-            console.log("I LOVE JAVASCRIPT")
+            console.log("I LOVE JAVASCRIPT");
         }
         else if (i % 3 == 0){
-            console.log("CSC225 RULES")
+            console.log("CSC225 RULES");
         }
         else{
             console.log(i);
